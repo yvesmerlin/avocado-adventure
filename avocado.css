@@ -1,0 +1,45 @@
+body,
+
+html {
+	width: 100%;
+	height: 100%;
+	font-family: 'montserrat', sans-serif;
+	  background: url(https://familynano.com/wp-content/uploads/2017/02/How-to-store-avocado-1024x684.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	font-size: 3rem;
+	color: white;
+    font-family:Courier New, monospace; 
+}
+hr {
+	border-color: #F05F44;
+	border-width: 3px;
+	max-width: 65px;
+}
+
+.buffer {
+	height: 10rem;
+}
+.btn-xl {
+	padding: 1rem 2rem;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius:300px;
+	text-transform: uppercase;
+	font-family:Courier New, monospace; 
+}
+.btn-success {
+	background-color: #F05F44;
+	border-color: #F05F44;
+}
+.btn-success:hover {
+	background-color: #ee4b08;
+	border-color: #F05F44;
+	border-width: 4px;
